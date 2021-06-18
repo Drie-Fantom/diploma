@@ -1,0 +1,51 @@
+.storybook-button_up {
+	border: 0;
+	cursor: pointer;
+	display: inline-block;
+	transition: all 0.6s;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background-color: rgb(24, 173, 218);
+	position: relative;
+	animation-name: circle;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+ }
+ .arrow{
+	z-index: 1;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-70%);
+	border: 5px solid transparent; 
+	border-bottom: 12px solid #fff;
+ }
+
+ .storybook-button_up--small {
+	width: 30px;
+	height: 30px;
+ }
+ .storybook-button_up--medium {
+	width: 40px;
+	height: 40px;
+ }
+ .storybook-button_up--large {
+	width: 50px;
+	height: 50px;
+ }
+ .storybook-button_up--none{
+	 border-radius: 0px;
+ }
+ .storybook-button_up--add{
+	 border-radius: 30px;
+ }
+ @keyframes circle{
+	0%{
+		transform: translateY(25%);
+	}
+	100%{
+		transform: translateY(-25%);
+	}
+}
+ 

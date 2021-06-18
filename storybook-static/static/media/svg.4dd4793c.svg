@@ -1,0 +1,32 @@
+<svg width="1000" height="248.00000000000003" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="250" width="1002" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_25">
+   <g stroke="null" transform="matrix(0.9891344884258118,0,0,1.0027168306851737,-16031.752244822601,-12300.419054077893) " id="svg_22">
+    <title stroke="null" transform="translate(-17.692325592041016,-57.34450149536133) translate(-955.7119750976562,-211.9547119140625) translate(811.6329956054688,186.60899353027344) translate(97.6014404296875,-206.34649658203125) translate(-1447.818603515625,139.55194091796875) translate(17662.658203125,0) translate(0,12323.78125) ">background</title>
+    <rect stroke="null" x="16149.669735" y="12173.296474" width="1058" height="445" id="svg_20" fill="#fff"/>
+    <g stroke="null" id="svg_19" display="none">
+     <rect stroke="null" id="svg_23" width="580" height="400" x="16150.669735" y="12174.296474" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(0.9891344884258118,0,0,1.0027168306851737,-16031.752244822601,-12300.419054077893) " id="svg_24">
+    <title stroke="null" transform="translate(-17.692325592041016,-57.34450149536133) translate(-955.7119750976562,-211.9547119140625) translate(811.6329956054688,186.60899353027344) translate(97.6014404296875,-206.34649658203125) translate(-1447.818603515625,139.55194091796875) translate(17662.658203125,0) translate(0,12323.78125) ">Layer 1</title>
+    <line stroke="#000" fill="none" stroke-width="10.5" x1="16211.169735" y1="12382.296474" x2="16354.169735" y2="12269.296474" id="svg_18" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line stroke="#000" fill="none" stroke-width="10.5" x1="16350.169735" y1="12271.296474" x2="17060.169735" y2="12271.296474" id="svg_17" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line stroke="#000" fill="none" stroke-width="10.5" x1="16207.169735" y1="12382.296474" x2="16348.169735" y2="12515.296474" id="svg_16" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line stroke="#000" fill="none" stroke-width="10.5" x1="16342.169735" y1="12511.296474" x2="17070.169735" y2="12511.296474" id="svg_15" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line stroke="#000" fill="none" stroke-width="10.5" x1="17065.169735" y1="12266.296474" x2="17183.169735" y2="12402.296474" id="svg_14" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line stroke="#000" fill="none" stroke-width="10.5" x1="17072.169735" y1="12511.296474" x2="17188.169735" y2="12400.296474" id="svg_13" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+    <line stroke="#000" fill="none" stroke-width="10.5" x1="16363.169735" y1="12309.296474" x2="16365.169735" y2="12455.296474" id="svg_12" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+   </g>
+  </g>
+ </g>
+</svg>
